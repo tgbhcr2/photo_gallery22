@@ -1,0 +1,43 @@
+html {
+    text-align: center;
+}
+
+#Logo {
+    height: 360px;
+    width: 563px;
+}
+
+img {
+    width: 350px;
+}
+
+#mycarousel {
+    background-color: lightcoral;
+}
+
+.grid {
+    display: inline;
+}
+
+#mycarousel img {
+    height: 300px;
+    margin-top: 25px;
+}
+
+.carousel-inner p {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: white;
+    font-size: 20px
+}
+
+#para {
+    text-align: center;
+    padding-left: 180px;
+    padding-right: 180px;
+    border: solid black 2px;
+}
+
+.cars {
+    display: inline;
+}
